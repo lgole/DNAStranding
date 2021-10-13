@@ -1,0 +1,29 @@
+stTime	30
+ndTime	30
+stMarker	CldU
+ndMarker	IdU
+stColor	1  0  0
+ndColor	0  1  0
+stChannel	CH1
+ndChannel	CH2
+PixelSize	0.103
+baseSize	2.59
+DisplayUnits	µm
+Min_Fiber_Length	20
+Min_Fiber_Unit	pixels
+Max_Gap	5
+Max_Gap_Unit	pixels
+Method	Optimal
+PencilMode	Freehand
+Thickness	2
+Pen_Color	0.07451     0.62353           1
+smoothness	3
+EraserMode	Object
+Last_Path	
+DisplayChannelEditField	q
+OverlayMaskEditField	m
+EditLineEditField	w
+EraserEditField	e
+DrawLineEditField	d
+PreviousImageEditField	leftarrow
+NextImageEditField	rightarrow

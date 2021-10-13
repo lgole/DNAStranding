@@ -1,0 +1,103 @@
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\DNA_Stranding.mlapp'                               }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\BW2ROIs.m'                               }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\DNA_Analysis_ter.m'                      }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\DNA_IntensityPlot.m'                     }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\DNA_Table1.m'                            }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\DNA_Table2.m'                            }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\DNA_Table2save.m'                        }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\DNA_detection.m'                         }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\DNAfibers_KEYBOARDSHORTCUTS.m'           }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\Dir_Extract.m'                           }
+   
+ {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\Dir_Num.m'                               }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\Dir_Up.m'                                }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\Display_Image.m'                         }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\Fibers_Toolbar.m'                        }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\InsertAppIcon.m'                         }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\LampSwitch.m'                            }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\ROI_ClickedListener.m'                   }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\ROIs2BW.m'                               }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\ROIs2Overlay.m'                          }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\Read_Image.m'                            }
+  
+  {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\Update_Image2.m'                         }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\explorer.m'                              }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\fiberBlink.m'                            }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\fiber_detectionBEST.m'                   }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\getOutput_path.m'                        }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\imoverlay_16.m'                          }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\load_ROIs.m'                             }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\loadconfig.m'                            }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\localDetection_ROI.m'                    }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\localErase_ROI.m'                        }
+   
+ {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\local_fiber_skel.m'                      }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\resetconfig.m'                           }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\save_ROIs.m'                             }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\saveconfig.m'                            }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\scode_longjie_02\color_determination.m'  }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\scode_longjie_02\fiber_detection.m'      }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\scode_longjie_02\fiber_skel.m'           }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\scode_longjie_02\find_segment_endpoint.m'}
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\scode_longjie_02\img_enhance.m'          }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\scode_longjie_02\skel_sequence_length.m' }
+  
+  {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\skel_profiling_02.m'                     }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Functions\switchColors.m'                          }
+
+
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\DNA_Stranding_Logo4.png'                     }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\Help.png'                                    }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\LKSOM Logo.png'                              }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\Open_24.png'                                 }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\Tools_24.png'                                }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\gear_24.png'                                 }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\hollowLeftArrow.png'                         }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\hollowLeftArrowaccent.png'                   }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\hollowRightArrow.png'                        }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\hollowRightArrowaccent.png'                  }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\imcb_logo.png'                               }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\keyboard_key_32.png'                         }
+    {'W:\Users\Laurent\SOURCE_CODE\DNA_Stranding_ver1p3_Sept2020\Source_code\Icons\tool_contrast.png'                           }
+
+
+
+
+
+Toolbox dependencies
+
+'MATLAB'	'9.8'	1
+'Image Processing Toolbox'	'11.1'	17
+'Statistics and Machine Learning Toolbox'	'11.7'	19
+'Computer Vision Toolbox'	'9.2'	96
+
+
+
+Written On (sept 2020)  : 
+
+MATLAB Version: 9.8.0.1380330 (R2020a) Update 2
+MATLAB License Number: 40828490
+Operating System: Microsoft Windows Server 2019 Standard Version 10.0 (Build 17763)
+Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+-----------------------------------------------------------------------------------------------------
+MATLAB                                                Version 9.8         (R2020a)
+Computer Vision Toolbox                               Version 9.2         (R2020a)
+Curve Fitting Toolbox                                 Version 3.5.11      (R2020a)
+Deep Learning Toolbox                                 Version 14.0        (R2020a)
+Image Processing Toolbox                              Version 11.1        (R2020a)
+Optimization Toolbox                                  Version 8.5         (R2020a)
+Parallel Computing Toolbox                            Version 7.2         (R2020a)
+Signal Processing Toolbox                             Version 8.4         (R2020a)
+Statistics and Machine Learning Toolbox               Version 11.7        (R2020a)
+
+
+
+
+
+
+
+
+
+
+
+

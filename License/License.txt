@@ -1,0 +1,3 @@
+DNA_Stranding SOURCE CODE Version 2.0 October 2020.
+Copyright (c) 2020 A*STAR, IMCB,  Laurent Gole ,laurent.gole@a-star.imcb.edu.sg. proprietary software.
+All rights reserved. No warranty, explicit or implicit, provided. In no event shall the author be liable for any claim or damages.
