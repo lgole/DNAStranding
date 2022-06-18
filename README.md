@@ -3,12 +3,15 @@ This software is designed to detect(segment) DNA fiber from DNA fluorescence ima
 
 DNA fiber fluorescence image has been widely used for DNA replication and repair dynamics study. Traditional DNA fiber quantification is relied on manual examination of DNA fluorescence image via image processing platform. This process is time-consuming and laborious and may suffer from inter-observer variation. An automatic DNA fiber analysis software is hence needed. The dedicated software is able to accurately detect and quantify DNA fiber from DNA fluorescence image.
 
-## this Github page holds DNA Stranding Software Matlab source code and the compiled Windows .exe file.
+## this Github page contains
+ * Matlab source code
+ * A compiled Windows executable.
+ *  associated documentation
 
 Please cite this paper if you are using this software in your research:     
 
-* Automatic DNA replication tract measurement to assess
-replication and repair dynamics at the single molecule level
+_* Automatic DNA replication tract measurement to assess
+replication and repair dynamics at the single molecule level_
 
 * Journal: Bioinformatics
 
