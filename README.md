@@ -15,6 +15,8 @@ replication and repair dynamics at the single molecule level_
 
 * Journal: Bioinformatics
 
+* https://doi.org/10.1093/bioinformatics/btac533
+
 * Manuscript ID BIOINF-2022-0413.R1, Category: Original Paper
 
 * Complete List of Authors: LI, Longjie; Institute of Molecular and Cell Biology; Bioinformatics
